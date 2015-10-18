@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="flaskr" uuid="cbe13710-c0ec-42b2-ba10-c8b61754c8a1">
+      <secret-storage>master_key</secret-storage>
+    </data-source>
+  </component>
+</project>
